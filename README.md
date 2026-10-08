@@ -1,9 +1,9 @@
 # Camden Lagasse
 
-Computer Science student at UMass Lowell with a concentration in Cybersecurity. Honors College, class of 2028.
+Computer Science student at UMass Lowell with a concentration in Cybersecurity. Honors College, expected graduation May 2028.
 
-- Member of the UML Cyber Club and its CPTC penetration testing team
-- Mostly C and C++, plus Python, Go, and Bash on Linux
-- Looking for a security or software engineering co-op
+My coursework focuses on C and C++. I also explore personal software projects with AI coding tools and have participated in UML Cyber Club and CPTC lab practice.
+
+I'm looking for a software or security co-op where I can learn and contribute as a student.
 
 [LinkedIn](https://www.linkedin.com/in/camdenlagasse)

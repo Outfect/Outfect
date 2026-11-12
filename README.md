@@ -1,9 +1,21 @@
 # Camden Lagasse
 
-Computer Science student at UMass Lowell with a concentration in Cybersecurity. Honors College, expected graduation May 2028.
+Computer Science student at UMass Lowell, concentrating in Cybersecurity. Expected graduation: May 2028.
 
-My coursework focuses on C and C++. I also explore personal software projects with AI coding tools and have participated in UML Cyber Club and CPTC lab practice.
+I work with **Python, C++, C, Bash, Git, and Linux**. My interests include backend engineering, networking, software testing, secure systems, and AI-assisted automation.
 
-I'm looking for a software or security co-op where I can learn and contribute as a student.
+## Current work
 
-[LinkedIn](https://www.linkedin.com/in/camdenlagasse)
+**SecureDrop** is a Python secure file-transfer application in active development with a four-person team. My responsibilities cover LAN peer discovery, TCP sockets, certificate verification, mutual authentication, GitHub coordination, and integration. My next steps include networking tests with pytest and GitHub Actions CI.
+
+## Technical experience
+
+- **Cyber Quests, Fall 2026:** scored **96.55%** in the U.S. Cyber Challenge competition and qualified for a Cyber Camp registration-fee waiver.
+- **CPTC practice, Spring–Summer 2026:** completed authorized labs involving network reconnaissance, segmented-network access with WireGuard and SOCKS5, and web vulnerability exploitation.
+- **Robotics internship, Summer 2022:** built and tested VEX robots with a teammate, integrating motors, intake mechanisms, and sensors.
+
+## Opportunities
+
+Seeking internships and co-ops in software engineering, backend development, security engineering, testing, or automation. Open to remote and hybrid work, Massachusetts opportunities, and relocation for the right role.
+
+[LinkedIn](https://www.linkedin.com/in/camdenlagasse/)
